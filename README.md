@@ -5,7 +5,7 @@ A React implementation of Tic Tac Toe for two players.
 
 ## Demo & Examples
 
-Live demo: [https://never47.github.io/my-react-app/](https://never47.github.io/my-react-app/)
+Live demo: [https://never47.github.io/tic-tac-toe/](https://never47.github.io/tic-tac-toe/)
 
 To build the examples locally, run:
 
